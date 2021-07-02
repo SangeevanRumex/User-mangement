@@ -4,5 +4,6 @@ ase_training_project
 
 Maven Training
 
-Maven multi module project
+Maven Multi Module Project
 
+Git Training Project
